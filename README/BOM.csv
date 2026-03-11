@@ -1,0 +1,9 @@
+Reference,Value,Quantity,Footprint,Manufacturer,MPN,Link
+
+U1,ESP32-DevKit-V1,1,Personal:esp32_devkit_v1_doit,DOIT,ESP32-DevKit-V1,https://www.az-delivery.de/products/esp32-devkit-v1
+
+U2,OLED 0.91" I2C,1,Display_OLED_I2C_0.91_1,Generic,OLED-0.91-I2C,https://www.az-delivery.de/products/oled-0-91
+
+U3,Joystick COM-09032,1,COM-09032:XDCR_COM-09032,SparkFun,COM-09032,https://www.sparkfun.com/products/9032
+SW1-9,Tactile Switch,6,Switch:SW_Push,x,Generic,https://www.az-delivery.de/products/tact-switches
+
