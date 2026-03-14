@@ -21,5 +21,15 @@ Wireless System:
 will be my future project if everything works thats also the cause of the esp32 beacause it has a included antenna.
 
 
+Thats the stuff that will be used:
+
+ESP32-DevKit-V1  x1
+
+U2,OLED 0.91" I2C  x1
+
+U3,Joystick COM-09032  x1
+
+SW1-9,Tactile Switch   x6
+
 
 This is my first custom PCB project  I learned KiCad schematic/PCB layout, ESP32 programming, I2C OLED integration. I tried my best for the design but I'm open to feedback for my next iteration.
